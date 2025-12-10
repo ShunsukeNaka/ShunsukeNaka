@@ -18,26 +18,6 @@ using modern technologies like **Next.js**, **React**, and **Flask**.
 
 ---
 
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShunsukeNaka&show_icons=true&locale=ja&theme=chartreuse-dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShunsukeNaka&layout=compact&locale=ja&theme=chartreuse-dark" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShunsukeNaka&theme=juicyfresh&no-frame=true&no-bg=true" />
-</p> -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats-kdtn5ahcy-shunsukenakas-projects.vercel.app/api?username=ShunsukeNaka&show_icons=true&theme=chartreuse-dark&cache_seconds=10" height="160" /> -->
-  <img src="https://github-readme-stats-kdtn5ahcy-shunsukenakas-projects.vercel.app/api/top-langs?username=ShunsukeNaka&layout=compact&theme=chartreuse-dark" height="160" />
-  <img src="https://github-readme-stats-kdtn5ahcy-shunsukenakas-projects.vercel.app/api?username=ShunsukeNaka&v=2" />
-</p>
-
-
-
----
-
 ### 🌱 Interests
 - Building Web Tools
 - Cloud / Server Engineering
