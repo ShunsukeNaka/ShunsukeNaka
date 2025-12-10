@@ -18,7 +18,6 @@ using modern technologies like **Next.js**, **React**, and **Flask**.
 
 ---
 
-## 📊 GitHub Stats
 <!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ShunsukeNaka&show_icons=true&locale=ja&theme=chartreuse-dark" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShunsukeNaka&layout=compact&locale=ja&theme=chartreuse-dark" height="150" />
