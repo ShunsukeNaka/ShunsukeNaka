@@ -27,8 +27,13 @@ using modern technologies like **Next.js**, **React**, and **Flask**.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShunsukeNaka&theme=juicyfresh&no-frame=true&no-bg=true" />
 </p> -->
-<img src="https://stats.kudoai.com/api?username=ShunsukeNaka&theme=dark" />
-<img src="https://stats.kudoai.com/api/top-languages?username=ShunsukeNaka&layout=compact&theme=dark" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-kdtn5ahcy-shunsukenakas-projects.vercel.app/api?username=ShunsukeNaka&show_icons=true&theme=chartreuse-dark" height="160" />
+  <img src="https://github-readme-stats-kdtn5ahcy-shunsukenakas-projects.vercel.app/api/top-langs?username=ShunsukeNaka&layout=compact&theme=chartreuse-dark" height="160" />
+</p>
+
 
 
 ---
