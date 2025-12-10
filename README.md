@@ -19,14 +19,17 @@ using modern technologies like **Next.js**, **React**, and **Flask**.
 ---
 
 ## 📊 GitHub Stats
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ShunsukeNaka&show_icons=true&locale=ja&theme=chartreuse-dark" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShunsukeNaka&layout=compact&locale=ja&theme=chartreuse-dark" height="150" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShunsukeNaka&theme=juicyfresh&no-frame=true&no-bg=true" />
-</p>
+</p> -->
+<img src="https://stats.kudoai.com/api?username=ShunsukeNaka&theme=dark" />
+<img src="https://stats.kudoai.com/api/top-languages?username=ShunsukeNaka&layout=compact&theme=dark" />
+
 
 ---
 
